@@ -14,10 +14,10 @@ Steps to create environmental variables:
 Then go to the lines where you can export and create an alias:
 ![alias_docker](../HW1_yg833/yg833_environmental_variables.JPG)
 
-export PUI2018="~/PUI2018"
-alias pui2018="cd $PUI2018"
-export PUIDATA="~/PUI2018/PUIdata"
-alias puidata="cd $PUIDATA"
+*export PUI2018="~/PUI2018"*
+*alias pui2018="cd $PUI2018"*
+*export PUIDATA="~/PUI2018/PUIdata"*
+*alias puidata="cd $PUIDATA"*
 
 ![alias](../HW1_yg833/yg833_bash_alias_file.JPG)
 
@@ -27,3 +27,6 @@ alias puidata="cd $PUIDATA"
 
 5) Check the variables using pwd, pui2018, pwd
 ![check](../HW1_yg833/yg833_check.JPG)
+
+## Extra Credit
+The extra credit is also uploaded to the HW1_yg833 folder named "yg833_HW1_extra_credit_reproducible_distributions.ipynb"
