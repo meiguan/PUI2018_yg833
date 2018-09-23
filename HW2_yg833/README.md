@@ -1,5 +1,8 @@
 # Homework 2
 
+Homework partnership with Sam Falk - 
+read through the directions for 
+
 This was week 3 of the course but the second homeowrk assignment submitted via github
 
 ## Part 1: perform the instruction in deleteData.md: delete data and its history from a GitHub repo
