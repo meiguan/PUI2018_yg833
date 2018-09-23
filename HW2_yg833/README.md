@@ -8,8 +8,17 @@ This was week 3 of the course but the second homeowrk assignment submitted via g
 ## Part 1: perform the instruction in deleteData.md: delete data and its history from a GitHub repo
 
 1) Created a test.csv file in my repo locally and pushed it to github
+![test_file1](../HW2_yg833/screenshots/testcsv.PNG)
+![test_file1_history](../HW2_yg833/screenshots/testcsv_history.PNG)
+
+
 2) Creates a test2.csv file via the text editor on Github and pulled the changes
+![test_file2](../HW2_yg833/screenshots/test2csv.PNG)
+![test_file2_history](../HW2_yg833/screenshots/test2csv_history.PNG)
+
 3) deleted the files and its history
+![test_delete_history](../HW2_yg833/screenshots/postDeleingTestcsv.PNG)
+
 4) forced the changes to the origin
 
 
