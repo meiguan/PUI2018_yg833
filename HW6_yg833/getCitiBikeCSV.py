@@ -9,6 +9,14 @@
 # Import packages
 from __future__ import print_function #for compatibility between python2 and python3
 import os # allows for a way of using operating system dependent functionality
+import numpy as np
+import sys
+
+
+#check if the env variable PUIDATA exists
+if os.getenv("PUIDATA") is None:
+    print ("must set PUIDATA env variable")
+    sys.exit()
 
 ### A function to download the data: simple bash commands can be run by preceding them with !
 ### but more complex command lines with variable arguments need to be build as strng and run with os.system
@@ -20,6 +28,10 @@ import os # allows for a way of using operating system dependent functionality
 ### you will be fine. We already explored how to download data in other notebooks!
 
 def getCitiBikeCSV(datestring):
+    '''Downloads citibike data and unzips it. If the data is downloaded by not unzippeds it zips it. Moves the data to $PUIDATA
+    Arguments:
+        date string as yyyymm
+    '''
     print ("Downloading", datestring)
     ### First I will heck that it is not already there
     if not os.path.isfile(os.getenv("PUIDATA") + "/" + datestring + "-citibike-tripdata.csv"):
