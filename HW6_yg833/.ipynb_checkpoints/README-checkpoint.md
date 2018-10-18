@@ -96,3 +96,4 @@ Logistic Regression	| 3; HbA1c measurement, Age, fractional disease duration | C
 For this assignment, I worked closely with S. Falk (sjf374) and R. MacWhinney (ram844). We read the directions together and went over each step over google hangout. The hardest part was creating the function for evalChisq and the credit for it goes to sjf374 for testing out the various numpy functions with calculating the sums / products on diagonals in an array.
 
 # Assignment 4
+For this assignment, I worked closely with S. Falk (sjf374) and R. MacWhinney (ram844). We read the directions together and went over each step over google hangout. I really struggled with this assignment. 
