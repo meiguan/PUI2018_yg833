@@ -61,7 +61,7 @@ Data: Citibike data preprocessed for Dec 2015 with only the tripduration and gen
 
 # Assignment 2
 
-Worked with Mei Guan @MeiGuan and Ross MacWhinney @RossMacW
+Worked with Sam Falk @sjf374 and Ross MacWhinney @RossMacW
 
 ## ANOVA:
 The paper  _[How accurate are runners’ prospective predictions of their race times?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200744)_ aimed to better understand prospective evaluations --being able to make an accurate prospective assessment of how one will perform on the annual half marathon race. The study looked at a variety of categorical variables such as demographics, gender, and prediction whilst controlling for experience levels via a categorical variable of running club membership. 
