@@ -2,7 +2,7 @@
 ## Assignment 1
 For this assignment, I worked by myself to make a plot using a dataset I found interesting from the NYC Open Data portal. I decided to look at the incidences of graffiti reported. I wanted to see if certain / areas in NYC had more graffiti than others. 
 
-![graffiti](../HW8_yg833/Map_Graffiti_Instance.png)
+![graffiti](../HW8_yg833/Map_Graffiti_Instances.png)
 
 Fig 1: Shows a map of NYC and each point represents a location where graffiti was reported. The color intensity shows how many times graffiti may have been reported at that location. 
 
