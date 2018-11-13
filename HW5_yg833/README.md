@@ -7,3 +7,6 @@ This was mainly using the functions in pandas using the skeleton notebook provid
 
 ## Assignment 2
 This was mainly following up and cleaning the notes from the SQL course. 
+
+## Update - Redo Assignment 2 SQL
+Prof. Bianco shared with class that if we didn't do the correct SQL homework from HW5, we can redo and re-submit. See the file named "REDO_Assignment_2_SQL_query.ipynb"
