@@ -14,10 +14,10 @@ Then I did a pull request to merge the reviews back into their homework 8 folder
 
 ## Assignment 2:
 
-This was done individually through Googling for better understanding of the OLS and WLS functions in the statsmodel library. I referenced this website as a tutorial: https://www.statsmodels.org/stable/examples/index.html
+I worked with QY (qg412) for this assignment. We mainly worked individually but shared google resources that we found while working together. Through Googling for better understanding of the OLS and WLS functions in the statsmodel library. We referenced this website as a tutorial: https://www.statsmodels.org/stable/examples/index.html
 
-I struggled initially with the line() function provided by Dr. Brianco and I emailed our TA Ilyas about if I was using the function correctly. Ilyas was very helpful and gave me some tips on what else to try via email. Then I found out that my colleague Ross also struggled with getting the same function to work so I shared the email from Ilyas with Ross.
+Initially, I really struggled with the line() function provided by Dr. Brianco and I emailed our TA Ilyas about if I was using the function correctly. Ilyas was very helpful and gave me some tips on what else to try via email. Then I found out that my colleague Ross also struggled with getting the same function to work so I shared the email from Ilyas with Ross.
 
 ## Assignment 3: 
 
-This assignment was very long.
+This assignment was very long. I was interested learning about how to use the Google API so I spent time looking at it. I also chatting wtih QY about parsing one of the sites using the urllib.request.urlretrieve instead of the decode options. I did not get a chance to finish assignment 3. 
