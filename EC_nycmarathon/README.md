@@ -10,7 +10,7 @@ With this context, I am interested in learning more about the NYC Marathon Finis
 Note: The difference seems to be more generous to women and the older age groups. 
 
 ## Data: 
-For this analysis, I will be doing some web-scraping to collect data on the 2018 marathon finishers from the New York Road Runners site: https://results.nyrr.org/event/M2018/finishers Through this link, we can find out information such as name, age, gender, country of origin, splits, and overall finish time. 
+For this analysis, I will collect data on the 2018 marathon finishers from the New York Road Runners site: https://results.nyrr.org/event/M2018/finishers Through this link, we can find out information such as name, age, gender, country of origin, splits, and overall finish time. 
 
 After obtaining this data, I will perform some basic exploratory data analysis to understand the dataset. I may also have to create some added features such as positive and negative splits to see how runners performed between segments of the race. I will also have to compare the finishing times to the published Boston Marathon qualifying times per gender and age group. 
 
@@ -20,8 +20,6 @@ If gender is a significant predictor/ the feature importance.
 Non binary genders are not included.
 
 ## References: 
-Santos-Lozano, Alejandro & Collado, Pilar & Foster, Carl & Lucia, Alejandro & Garatachea, Nuria. (2014). Influence of Sex and Level on Marathon Pacing Strategy. Insights from the New York City Race. International Journal of Sports Medicine. 35. 10.1055/s-0034-1367048. (accessed: https://www.researchgate.net/publication/260226395_Influence_of_Sex_and_Level_on_Marathon_Pacing_Strategy_Insights_from_the_New_York_City_Race on Nov 21, 2018) 
-
 Barrysmyth. “The New York City Marathon, 2017 – Running with Data – Medium.” Medium.com, Medium, 15 Nov. 2017, medium.com/running-with-data/the-new-york-city-marathon-2017-9acc6607b433.
 
 ## Deliverable: 
