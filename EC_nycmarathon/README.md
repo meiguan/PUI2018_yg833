@@ -2,6 +2,8 @@
 
 Mei Guan, meiguan, yg833
 
+https://www.authorea.com/343277/lKu8RmG4-Y58EkPk4EAjUA
+
 ## Problem Description:
 The first New York City Marathon was organized in 1970 with only 127 entrants in Central Park where 55 men finished and the only female entrant dropped out due to illness, according to the NYRR site (here). This year (2018) marks the 48th year of the race and it has grown to include more than 52K finishers who ran the race with an average time of 4:40:22. And many of these 2018 NYC finishers would hopefully qualify for entry into the 2020 Boston Marathon which is much sought after. 
 
